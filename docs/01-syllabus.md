@@ -1,6 +1,6 @@
 # Syllabus {-}
 
-**Course:** ENST/MRNE 392 Field Research Methods 
+**Course:** ENST/MRNE 392 Field Research Methods <br />
 **Lecture:** Tues & Thurs 1:45 - 3:00 Goodpaster 198  
 **Lab:** Wed 8:00-11:10 Schaefer 112 <br />
 **Instructor:** Dr. Cassie Gurbisz  (you can call me Cassie) <br />
@@ -85,7 +85,7 @@ Any outstanding work from the first half of the semester that hasn't been submit
 
 **Absences**
 
-I don't have a specific absence policy. You'll reflect on how your absences from class affected your learning and, ultimately, your grade in your engagement and collaboration self-assessment. However, please don't come to class sick. A few absences here and there are not a big deal. If you need to miss class, please let me know. I do take attendance and I will reach out if you have multiple unexplained absences to make sure you're ok. When you miss class, please don't ask me what you missed - it's all in the class schedule!   
+I don't have a specific absence policy. You'll reflect on how your absences from class affected your learning and, ultimately, your grade in your engagement and collaboration self-assessment. As noted above, I generally expect you to come to class and participate in fun/challenging/interesting stuff we'll be doing! However, please don't come to class sick. A few absences here and there are not a big deal. If you need to miss class, just let me know. I do take attendance and I will reach out if you have multiple unexplained absences to make sure you're ok. If you miss class, please don't ask me what you missed - it's all in the class schedule.   
 
 **Use of AI**
 
