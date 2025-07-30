@@ -1,95 +1,121 @@
 # Syllabus {-}
 
-**Course:** ENST/MRNE 392 Field Research Methods Fall 2024  
-**Lecture:** Tues & Thurs 8:30 - 9:45 Schaefer 111  
-**Lab:** Thurs 1:10-4:30 Schaefer 112 <br />
+**Course:** ENST/MRNE 392 Field Research Methods 
+**Lecture:** Tues & Thurs 1:45 - 3:00 Goodpaster 198  
+**Lab:** Wed 8:00-11:10 Schaefer 112 <br />
 **Instructor:** Dr. Cassie Gurbisz  (you can call me Cassie) <br />
 **Email:** cbgurbisz@smcm.edu <br />
-**Office hours:** Tuesdays 12:00-2:00 Kent Hall 308 <br /> 
-**Website:** https://MRNE392.github.io/website/
+**Office hours:** Wednesdays 1:00-3:00 Kent Hall 308 <br /> 
+**Website:** https://MRNE392.github.io/website-2025/
 
 ## Course description {-}
-In this course, you will learn methods of sampling and analyzing the natural environment. An emphasis will be placed on research question formulation and sampling design. By the end of the course, students will be able to independently develop a field study, collect and analyze field data, and present their findings in a poster presentation. We will focus on our local estuarine environment, although the general research process covered can be applied to any system.
+In this course, you will learn methods of sampling and analyzing the natural environment with an emphasis on research question formulation and sampling design. By the end of the course, you will be able to independently design a field study, collect and analyze field data, and present their findings in a written report and poster presentation. We will focus on our local estuarine environment, although the general research process covered can be applied to any system.
 
-## Course materials {-}
-All of the readings in this class are either free or will be provided by the instructor.
+## Course materials and content management {-}
+The textbook for this course is Milroy, Scott: Field Methods in Marine Science ISBN 9780815344766. All other course materials and information is available on this website.
+
+We will submit all assignments, unless otherwise specified, using Google Classroom. I'll invite everyone to join our Google Classroom interface during the first week of class. Your grades will be posted and regularly updated in Google Classroom.
+
+## Working outside {-}
+This course involves a lot of outdoor work. Sometimes the weather will be beautiful, but it can also be hot, sunny, buggy, cold, wet, windy, or a combination of these uncomfortable conditions. We will go out rain or shine unless the conditions are unsafe. It is important that you come to lab prepared with whatever you need to keep yourself safe and comfortable outside. It's always a good idea to have a hat and sunscreen and a waterproof layer, even if rain is not in the forecast. If you don't already have a waterproof rain jacket, you should get one know or have a plan to borrow one. 
+
+We will be frequently working in the marsh at Point Lookout State Park. The ground is very soggy, so you'll need to wear rubber boots or waders. We have some you can borrow, but we can't guarantee we'll have your exact size available. You might want to get a pair of rubber boots if possible. [Muck Boots](https://muckbootcompany.com/?gad_source=1&gad_campaignid=1587538522&gbraid=0AAAAADpJz15HxPP4eoPsFBXPRRe_PrbX_&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKJEzncuY1j97v1Z0G8g1gqHUILg8zir00YY2yuAuWM-hKzX1Pl8KAcaAh0OEALw_wcB) are worth the price if you think you'll get use out of them beyond this class, but cheap boots from Walmart or the thrift store will be fine too.
+
+You should also generally avoid wearing cotton sweatshirts and jeans. If they get wet, they become heavy and uncomfortable. If it's cold out, they will not keep you warm. Leggings aren't great either because the scratchy plants can poke through the thin fabric. Hiking pants and a light long-sleeve shirt will be the most comfortable. In cooler weather, a synthetic fleece or wool jacket or pullover is ideal. 
+
 
 ## Learning outcomes {-}
-At the completion of this course, students will be able to design and conduct ecological field investigations using proper scientific methods.
+At the completion of this course, you will be able to design and conduct ecological field investigations using proper scientific methods.
 
 Specific outcomes include being able to:
 
-* Formulate and articulate hypotheses or questions about observed ecological phenomena 
+* Formulate and articulate research questions and hypotheses about observed ecological phenomena 
 * Develop and articulate an appropriate field study design to test hypotheses or address research questions
 * Use appropriate methods to collect ecological field data
 * Record and manage detailed ecological data, including field procedures, site observations and quantitative field measurements
-* Analyze observational and experimental field data and report results in the form of a conference-style poster presentation
+* Analyze observational and experimental field data
+* Report results in the form of a written report and conference-style poster presentation
 * Collaborate effectively with a diverse team of researchers and learners
 
-## Working outside {-}
-This course involves a lot of outdoor work. Sometimes the weather will be beautiful, but more often it will be hot, sunny, buggy, cold, wet, windy, or a combination of these uncomfortable conditions. We will go out rain or shine unless the conditions are unsafe. It is important that you come to class prepared with whatever you need to keep yourself safe and comfortable outside. It's always a good idea to have a hat and sunscreen and a waterproof layer, even if rain is not in the forecast. For boat work, it is almost always much cooler on the water than land, so come prepared with multiple layers. Closed-toe shoes are required on the boat. Crocs or sneakers are fine in warm weather. Rubber boots are ideal in cooler weather but sneakers or anything with a grippy rubber sole are fine too. Do not wear flip-flops, heels, or nice shoes that can't get wet or that could scuff up the boat deck. 
+## Assessment and grading {-}
 
-I recommend investing in good rain gear, especially if you plan to continue doing fieldwork on the water beyond this class. [Grundens](https://grundens.com/) is a reputable marine work gear supplier and they have some affordable options. [Outdoor Research](https://www.outdoorresearch.com/) also sells high-quality gear and you can apply for a [student discount](https://www.outdoorresearch.com/pages/vip-program?gad_source=1&gclid=Cj0KCQjwkdO0BhDxARIsANkNcrfTTRmTvBF6i9f4siwcZSvr-3FYPgDXYPUw5zkBXpXfyFCTJc8cJKAaAtSCEALw_wcB).
+**Quizzes and homework assignments (30%)**
 
-## Grading and assessment {-}
+Weekly-ish quizzes and/or homework assignments are designed to 1) help the instructor monitor how well you’re learning, 2) help you monitor your own learning and make adjustments to improve, and 3) encourage you to keep up with course material outside of class. The content and format of these assessments will vary, but I'll be clear about what you can expect for each assignment.
 
-This course uses a variation of "specifications grading," where we rely less on evaluating every assignment with a letter or number and instead focus on making sure we're generally making good progress in our learning. [Research has shown](https://www.alfiekohn.org/article/case-grades/) that grading doesn't improve learning and can sometimes even harm learning. Rather than submitting work "in exchange" for a letter or number grade, most assignments will be evaluated based on whether or not they meet the "specifications," or "specs" of that particular assignment. If the specs are not met, you'll often have the opportunity to revise your assignment until the specs are met so that you have more than one chance to demonstrate your learning. Your final grade will be based on the number of assignments for which you meet the specs and, therefore, demonstrate your mastery of the course topics. With this approach to evaluation, the goal is to emphasize truly becoming an expert in the course content. 
+Make-up quizzes are generally not possible because we will go over them during the same class they were given. However, we'll drop your two lowest quiz/homework grades at the end of the semester, so it's not a big deal if you miss a couple. Note that Google Classroom doesn't automatically drop your two lowest grades, so this will not be reflected in your posted grade. We'll have to do this calculation by hand at the end of the semester.
 
-The following outlines the grading system:
+**Written report (20%)**
 
-* **A** Meet specs on: at least 9/10 quizzes, 3/3 lab reports, and poster
-* **B** Meet specs on: at least 8/10 quizzes, 2/3 lab reports, and poster
-* **C** Meet specs on: at least 7/10 quizzes, 2/3 lab reports, and poster
-* **D** Meet specs on: at least 6/10 quizzes, 1/3 lab reports, and poster 
-* **F** Does not meet one or more of the requirements to earn a D, and/or student has 6 or more unexplained absences 
+You'll learn how to design and conduct field research through an in-depth study of the marshes at Point Lookout State Park. We will measure several variables as a class. You'll then work with a partner to ask a research question and answer it using a subset of the class data, and then report your findings in a scientific paper. You'll have the opportunity to work on the paper throughout the the semester.
 
-**Quizzes**
+**Poster (20%)**
 
-Weekly-ish assessments will take the form of quizzes. They are designed to 1) help the instructor monitor how well you’re learning, 2) help you monitor your own learning and make adjustments to improve, and 3) encourage you to study course material outside of class. However, I don't want the quizzes to be an source of anxiety for you, so we're using a different form of grading to evaluate your work. First you'll take the quiz individually in class. You'll then confer with your peers to discuss your responses. At this stage, you can also use any of your hand-written notes as a reference. You'll then modify your responses and finally reflect on any questions you missed. This encourages you to think about misconceptions your may have had and consider how you might improve your study habits. The quizzes are graded as "meets specs/does not meet specs." In order to meet the specifications, you need to earn a minimum number of points on the individual and group portions of the quiz (typically 70% individual, 100% group/open notes). Meeting specs also requires that you write a brief but thoughtful reflection on your learning. The only quizzes that will not include peer discussion and revision are the species ID and knot-tying quizzes.
+At the end of the semester, you'll work in groups to present your research at the SMCM student poster symposium. The goal of the poster assignment is to demonstrate that you can clearly communicate the most important aspects of your study to a more general audience. 
 
-Quizzes can be made up during the instructor's office hours or by appointment, but note that you will not be able to confer with your peers. Missed quizzes must be made up within 2 weeks of the missed quiz date.
+**Take-home final exam (20%)**
 
-My aim is to be completely transparent about what content will be assessed in the quizzes. Each day's "topic and materials" page will contain a list of the learning objectives for that day. Unless otherwise noted, quizzes will generally assess the learning objectives covered since the last previous quiz. Use these learning objectives as a study guide as you review the slides and readings. You may want to make a concise "cheat-sheet" from your notes to bring on the day of each quiz. Since open notes are permitted, this will help you quickly find information for each learning objective. Making cheat-sheets also helps you study!
+The take-home final exam provides an opportunity for you to show that you can apply what you learned in the course to design a field study of your own. The exam will be formatted as an abbreviated research proposal in which you ask a research question, formulate a hypothesis, and design a field study to test your hypothesis. I will provide some project ideas to get you started, or you can pose your own question.
 
-**Lab reports**
+**Engagement and collaboration self-assessments (10%)**
 
-At the conclusion of each of our three field studies, you'll write a brief lab report to communicate your results and demonstrate your understanding of the field research process. Specifications for each report will be provided. If your report does not meet specifications, you will have the opportunity to revise it until it does meet specs. Revised lab reports must be submitted within one week of receiving instructor feedback.
+This is a very hands-on and collaborative class. You can't demonstrate your ability to do field research if you don't show up. Scientific research, especially in the field, is also very collaborative, so you need to be able to work with other people. You know better than anyone how you're doing in these areas, so at the mid-point and end of the semester, you'll reflect on your engagement and collaboration and give yourself a grade in these areas. 
 
-**Poster**
+**Grading scale**
 
-At the end of the course, you'll choose one of our field studies to present at the SMCM fall student poster symposium. The goal of the poster assignment is to demonstrate that you have an in-depth understanding of how we developed our research question, hypothesis, methods, and results for the field study. As with the lab reports, you will have the opportunity to revise the poster until it meets specs or until the poster printing deadline. Posters that do not meet specs will not qualify for presenting at the public poster symposium. 
+A     93-100%
+A-    90-92%  <br />
+B+    87-89%  B 83-86%  B- 80-82%  <br />
+C+    77-79%  C 73-76%  C- 70-72%  <br />
+D+    67-69%  D 63-66%  D- 60-62%  <br />
+F     <60%  <br />
 
-**Unexplained absences**
 
-I define an unexplained absence as missing class without notifying the professor (in other words, “ghosting” the class). As long as you let the instructor know you won’t be able to make it to class, an absence is considered “explained,” no doctor’s note or other official documentation needed. Please don’t come to class if you are sick! Just be sure to keep me in the loop via a quick email.
-
-On the flip side, please consider the consequences of missing class meetings – this is a hands-on course where most of the learning takes place in person. It will be hard to learn and, therefore, pass the class if you’re not here to participate. This is why attendance is included in the specs for earning an F in the class. If we are not in close communication about your absences, catching up on more than a couple days of missed work will not be possible. 
-
-If you need to miss class, please don't ask me what you missed - it's all in the class schedule. You should review and take notes on whatever slides and readings are listed under the topics and materials for that day.
-
-**Extra credit**
-
-The specs grading system is designed to reduce anxiety over grades, but I recognize that you still may experience some stress over the quizzes and assignments, especially if you are just below the benchmark for a particular course grade or you would like the opportunity to earn a "plus" grade. I will offer multiple opportunities that will enable you to earn one extra credit point, which you can use as a "free pass" to automatically meet specs on one quiz or add a "plus" to your grade. So if, for example, if you only meet the specs on 8 quizzes but you need to pass 9 to earn a B and you meet all of the other B requirements, you can use your extra credit point to automatically pass your missing quiz and, therefore, earn a B in the class. Or if you met all of the requirements for a B, but you'd really like to earn a B+, you can use your extra credit point to add a "+" to your final grade. There are no "-" final grades in this class. I will notify you of extra credit opportunities as soon as they arise.
-
-## More policies {-}
+## Policies {-}
 
 **Late work**
 
-I encourage you to stick to assignment deadlines - they exist to keep you on track so you don't fall behind with coursework. However, I am also flexible if you really need an extra day or two to complete an assignment. Just ask - it's usually not a problem. You should think about the purpose of a particular due date and how a late submission will affect your learning. A late submission might mean you will miss the opportunity to get feedback on your work, or you might miss the chance to work collaboratively with your peers. You should take these learning opportunities into consideration before requesting an extension.
+I encourage you to stick to assignment deadlines - they exist to keep you on track and ensure you are prepared for class. However, I also don't believe in taking points off for work that is a few days late. Being able to stick to a deadline is not a learning outcome for the course, so I don't deduct points for late work. 
+
+Keep in mind, though, that many assignment deadlines are set so that you are ready to participate in that day's class activity. If you haven't done the prep work, you won't be able to fully participate in class. You should take this into consideration and be honest about how late work affected your participation when reflecting on your engagement.
+
+You may also lose the opportunity to get feedback on your work if it isn't submitted on time. Once I provide written feedback on an assignment, I will still grade late work by completing the assignment rubric, but I won't provide detailed written feedback.  We will also do peer reviews shortly after some assignment deadlines. If your work isn't complete, you may not receive peer feedback either.
+
+Any outstanding work from the first half of the semester that hasn't been submitted by the semester's mid-point of the semester will earn a zero. Outstanding work from the second half of the semester that hasn't been submitted by the last day of class (with the exception of the final take-home exam) will earn a zero.
+
+**Absences**
+
+I don't have a specific absence policy. You'll reflect on how your absences from class affected your learning and, ultimately, your grade in your engagement and collaboration self-assessment. However, please don't come to class sick. A few absences here and there are not a big deal. If you need to miss class, please let me know. I do take attendance and I will reach out if you have multiple unexplained absences to make sure you're ok. When you miss class, please don't ask me what you missed - it's all in the class schedule!   
 
 **Use of AI**
 
-The use of generative AI within lab reports and the poster assignment is not allowed. If you try to use AI for this work, it will probably generate nonsensical word vomit, anyway, since the assignments in this class are based on our own original research and not outside information sources (see this [scholarly article](https://link.springer.com/article/10.1007/s10676-024-09775-5) for details). If I suspect that you have used AI to create your assignments, you can expect to have a conversation with me!
+::: {.img-float}
+![](images/chatgpt-chimp.jpg){style="float: right; margin: 30px; width: 30%"}
+:::
 
-You might consider using AI to help you develop study guides. However, your quiz notes must still be hand-written.
+I am wary of AI tools like ChatGPT in educational settings because they can impede your learning. If you blindly copy and paste whatever content ChatGPT generates, you are less likely to stretch yourself to construct new meaning in your brain — in other words, you will learn less — and you are less likely to retain what you do learn. We want you to come away from this course being able to *think* and *read* and *write* and *speak* with your own brain. ChatGPT can generate decent-sounding text and reading summaries, but at best the output is uninteresting and shallow. At worst, it can fabricate nonexistent or incorrect references and generate nonsensical text.
+
+I don’t want to outright ban AI tools, but **I expect that all of your work products are your own**. You should not use any AI-generated text, images, etc. for any of your work in this class. Please also be cognizant of your learning. Don’t let ChatGPT make you dumb by doing all your reading and thinking for you!
+
+Some examples of how AI *can* help you learn:
+
+- You’re confused about a concept or you’re having trouble finding a coherent explanation of a particular research method. A good AI prompt may yield information that can help you grapple with difficult ideas.
+- AI can help you explore research methods or data analysis approaches given specific parameters of your project.
+- A good AI prompt may help you develop and assign tasks for your team.
+
+If you’re interested, here are some resources that have shaped my thinking about AI in education:
+
+- [Against “brain damage:” AI can help or hurt our thinking](https://www.oneusefulthing.org/p/against-brain-damage?utm_source=ready4r&utm_medium=email&utm_campaign=ready4r-2025-07-14-summer-reading-list)
+- [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
+- [AI prompt library](https://gail.wharton.upenn.edu/prompt-library/)
 
 **Engaged learning**
 
-SMCM has recently decreased the amount of time allocated to class meetings. In order to maintain the depth of learning that is required for a 4-credit course, some of your learning will take place by engaging with class material outside of normal lecture hours. Because the course includes a lab period, most of our "engaged learning" will take place via hands-on activities during lab.  
+In order to maintain the depth of learning that is expected for a 4-credit course, some of your learning will take place outside of normal lecture hours. Because the course includes a lab period, most of our "engaged learning" will take place via hands-on activities during lab.  
 
 **Office hours**
 
-Office hours are set times dedicated to students. This means that I will be in my office waiting for you to come by talk to me during that time!
+Office hours are set times dedicated to students. This means that I will be in my office waiting for you to come by talk to me during that time! Feel free to make an appointment if you can’t make it during those times.
 
 ## SMCM resources {-}
 
