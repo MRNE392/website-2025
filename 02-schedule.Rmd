@@ -1,0 +1,14 @@
+# Schedule {-}
+
+The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives and a lesson plan and materials used in class each day. `assessments` outlines the quiz schedule and assignment due dates. This column also links to pages containing details about assignment guidelines/specifications. The `notes` column mostly indicates how to prepare for labs. 
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+library(magrittr)
+library(kableExtra)
+options(knitr.kable.NA = '')
+options(kableExtra.html.bsTable = T)
+kable(readxl::read_xlsx("schedule.xlsx")) %>%
+  kable_styling(font_size = 12,
+                            fixed_thead = T,
+                            bootstrap_options = "hover")
+```
